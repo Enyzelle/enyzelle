@@ -26,18 +26,18 @@
 
 ### 📈 My GitHub Stats
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?Enyzelle=Enyzelle&show_icons=true&theme=dracula" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Enyzelle&show_icons=true&theme=dracula" />
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=Enyzelle&theme=dracula" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?Enyzelle=Enyzelle&theme=dracula&bg_color=1a1b27" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enyzelle&theme=dracula&bg_color=1a1b27" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?Enyzelle=Enyzelle&theme=radical&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Enyzelle&theme=radical&row=2&column=4" />
 </p>
 
 ---
@@ -88,5 +88,5 @@
 
 ### 🌍 Visitor Counter
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=username&style=for-the-badge&color=green">
+  <img src="https://komarev.com/ghpvc/?username=Enyzelle&style=for-the-badge&color=green">
 </p>
