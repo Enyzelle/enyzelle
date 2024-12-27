@@ -74,7 +74,7 @@
 
 ### 🌟 Fun Widgets!
 - 🕒 **Time Now**: ![Time](https://img.shields.io/badge/Time-Manila%20Time-FFA500?style=for-the-badge)
-- 🖥️ **OS Info**: ![OS](https://img.shields.io/badge/OS-Windows%2011-blue?style=for-the-badge
+- 🖥️ **OS Info**: ![OS](https://img.shields.io/badge/OS-Windows%2011-blue?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
