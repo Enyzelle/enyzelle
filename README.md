@@ -44,7 +44,7 @@
 
 ### 🎵 Now Playing on Spotify
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify_user_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31e6zixdigttfht2d77gcvinfibe&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
 </p>
 
 ---
