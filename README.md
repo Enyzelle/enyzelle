@@ -13,7 +13,7 @@
 - 🌱 Learning **Javascript, Typescript, Python and more** to build even cooler things!
 - 💬 Ask me about **JavaScript, TypeScript, Node.js, Python and Open Source**.
 - 🥅 2024 Goals: **Contribute to 50+ open-source projects**.
-- ✨ Fun fact: **I can sleep Cube in under 2 minutes.**
+- ✨ Fun fact: **I can sleep in under 2 minutes.**
 
 ---
 
