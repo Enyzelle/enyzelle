@@ -1,12 +1,12 @@
 <h1 align="center">✨ Welcome to My GitHub, I'm Enyz! ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=FFA500&center=true&vCenter=true&width=700&lines=Developer+|+Creator+|+Learner;Open+Source+Enthusiast;Building+awesome+projects+everyday!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=FFA500&center=true&vCenter=true&width=700&lines=Developer+|+Creator+|+Learner;Discord+Js+Enthusiast;Building+biggest+project+Gehlee!">
 </p>
 
 ---
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200"/>
 
 ### 🧑‍💻 About Me
 - 🔭 Currently working on **[Gehlee](https://github.com/Enyzelle/Gehlee)**.
