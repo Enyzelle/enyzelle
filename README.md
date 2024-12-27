@@ -44,7 +44,7 @@
 
 ### 🎵 Now Playing on Spotify
 <p align="center">
-  <img src="http://localhost:3000/api/view">
+  <img src="http://localhost:3000/now-playing" alt="Now Playing on Spotify">
 </p>
 
 ---
