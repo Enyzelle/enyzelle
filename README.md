@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
 
 ### 🧑‍💻 About Me
 - 🔭 Currently working on **[Gehlee](https://github.com/Enyzelle/Gehlee)**.
