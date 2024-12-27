@@ -44,7 +44,7 @@
 
 ### 🎵 Now Playing on Spotify
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31e6zixdigttfht2d77gcvinfibe&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
+  <img src="http://localhost:3000/api/view">
 </p>
 
 ---
@@ -67,8 +67,8 @@
 
 ### 🚀 My Projects
 #### Featured
-- 🌟 **[Project Name](https://github.com/Enyzelle/Discord-Bot-Creator)**: A tool for making a discord bot fast and easy.
-- 🌟 **[Another Project](https://github.com/Enyzelle/Gehlee)**: Another exciting big project that on working
+- 🌟 **[Discord-Bot-Creator](https://github.com/Enyzelle/Discord-Bot-Creator)**: A tool for making a discord bot fast and easy.
+- 🌟 **[Gehlee](https://github.com/Enyzelle/Gehlee)**: Another exciting big project that on working
 
 ---
 
