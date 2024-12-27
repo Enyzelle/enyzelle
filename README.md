@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,vue,nodejs,html,css,tailwind,git,mongodb,postgresql,figma,vscode,linux,docker&theme=light" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,html,css,git,mongodb,vscode&theme=light" />
 </p>
 
 ---
@@ -58,24 +58,23 @@
 
 ### 🌐 Connect with Me!
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://twitter.com/yourtwitterhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:enyz_contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/Enyzelle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://discord.com/users/1317482100290752604"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 ---
 
 ### 🚀 My Projects
 #### Featured
-- 🌟 **[Project Name](https://github.com/username/project)**: A brief description of the project.
-- 🌟 **[Another Project](https://github.com/username/project2)**: Another exciting project you're proud of.
+- 🌟 **[Project Name](https://github.com/Enyzelle/Discord-Bot-Creator)**: A tool for making a discord bot fast and easy.
+- 🌟 **[Another Project](https://github.com/Enyzelle/Gehlee)**: Another exciting big project that on working
 
 ---
 
 ### 🌟 Fun Widgets!
-- 🕒 **Time Now**: ![Time](https://img.shields.io/endpoint?url=https://worldtimeapi.org/api/ip&style=for-the-badge)
-- 🖥️ **OS Info**: ![OS](https://img.shields.io/endpoint?url=https://my-json-server.typicode.com/typicode/demo/posts/1&style=for-the-badge)
+- 🕒 **Time Now**: ![Time](https://img.shields.io/badge/Time-Manila%20Time-FFA500?style=for-the-badge)
+- 🖥️ **OS Info**: ![OS](https://img.shields.io/badge/OS-Windows%2011-blue?style=for-the-badge
 
 ---
 
