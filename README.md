@@ -67,9 +67,9 @@
 
 ### 🚀 My Projects
 #### Featured
-- 🌟 **[Discord-Bot-Creator](https://github.com/Enyzelle/Discord-Bot-Creator)**: A tool for making a discord bot fast and easy.
-- 🌟 **[Gehlee](https://github.com/Enyzelle/Gehlee)**: Another exciting big project that on working
-- 🌟 **[EnyzMid](https://github.com/Enyzelle/EnyzMid)**: Yet another exciting big project that on working
+- 🌟 **[Discord-Bot-Creator](https://github.com/Enyzelle/Discord-Bot-Creator)**: The fastest and easiest tool for creating custom Discord bots.
+- 🌟 **[Gehlee](https://github.com/Enyzelle/Gehlee)**: A K-pop card collection bot packed with fun and engaging features.
+- 🌟 **[EnyzMid](https://github.com/Enyzelle/EnyzMid)**: An exciting project currently in development—stay tuned for more!
 
 ---
 
