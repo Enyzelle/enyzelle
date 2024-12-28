@@ -9,7 +9,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200"/>
 
 ### 🧑‍💻 About Me
-- 🔭 Currently working on **[Gehlee](https://github.com/Enyzelle/Gehlee)**.
+- 🔭 Currently working on **[Gehlee](https://github.com/Enyzelle/Gehlee)** and **[EnyzMid](https://githubcom/Enyzelle/EnyzMid)**.
 - 🌱 Learning **Javascript, Typescript, Python and more** to build even cooler things!
 - 💬 Ask me about **JavaScript, TypeScript, Node.js, Python and Open Source**.
 - 🥅 2024 Goals: **Contribute to 50+ open-source projects**.
@@ -69,6 +69,7 @@
 #### Featured
 - 🌟 **[Discord-Bot-Creator](https://github.com/Enyzelle/Discord-Bot-Creator)**: A tool for making a discord bot fast and easy.
 - 🌟 **[Gehlee](https://github.com/Enyzelle/Gehlee)**: Another exciting big project that on working
+- 🌟 **[EnyzMid](https://githubcom/Enyzelle/EnyzMid)**: Yet another exciting big project that on working
 
 ---
 
