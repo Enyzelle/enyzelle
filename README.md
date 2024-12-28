@@ -69,7 +69,7 @@
 #### Featured
 - 🌟 **[Discord-Bot-Creator](https://github.com/Enyzelle/Discord-Bot-Creator)**: A tool for making a discord bot fast and easy.
 - 🌟 **[Gehlee](https://github.com/Enyzelle/Gehlee)**: Another exciting big project that on working
-- 🌟 **[EnyzMid](https://githubcom/Enyzelle/EnyzMid)**: Yet another exciting big project that on working
+- 🌟 **[EnyzMid](https://github.com/Enyzelle/EnyzMid)**: Yet another exciting big project that on working
 
 ---
 
