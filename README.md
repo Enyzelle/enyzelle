@@ -44,10 +44,10 @@
 
 ### 🎵 Now Playing on Spotify
 <p align="center">
-  <a href="http://localhost:3000/now-playing">
-    <img src="http://localhost:3000/now-playing" width="356" height="80" alt="Now Playing">
+  <a href="https://spotify-now-playing-psi.vercel.app/now-playing">
+    <img src="https://spotify-now-playing-psi.vercel.app/now-playing" width="356" height="80" alt="Now Playing">
   </a>
-</p>
+</p> 
 
 ---
 
