@@ -44,8 +44,8 @@
 
 ### 🎵 Now Playing on Spotify
 <p align="center">
-  <a href="https://spotify-now-playing-psi.vercel.app/now-playing?t=<%= Date.now() %>">
-    <img src="https://spotify-now-playing-psi.vercel.app/now-playing?t=<%= Date.now() %>" width="356" height="80" alt="Now Playing">
+  <a href="https://spotify-now-playing-psi.vercel.app/now-playing">
+    <img src="https://spotify-now-playing-psi.vercel.app/now-playing?cache=no-cache&t={timestamp}" width="356" height="80" alt="Now Playing">
   </a>
 </p> 
 
