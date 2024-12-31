@@ -72,6 +72,8 @@
 - 🌟 **[Discord-Bot-Creator](https://github.com/Enyzelle/Discord-Bot-Creator)**: The fastest and easiest tool for creating custom Discord bots.
 - 🌟 **[Gehlee](https://github.com/Enyzelle/Gehlee)**: A K-pop card collection bot packed with fun and engaging features.
 - 🌟 **[EnyzMid](https://github.com/Enyzelle/EnyzMid)**: An exciting project currently in development—stay tuned for more!
+#### Most Featured
+- 🎶 **[Stellar Music](https://github.com/Enyzelle/Stellar-Bot)**: A feature-packed Discord music bot with advanced commands for playback, queue management, and much more.
 
 ---
 
