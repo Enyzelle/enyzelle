@@ -9,7 +9,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200"/>
 
 ### 🧑‍💻 About Me
-- 🔭 Currently working on **[Gehlee](https://github.com/Enyzelle/Gehlee)** and **[Stellar Music](https://githubcom/Enyzelle/Stellar-Bot)**.
+- 🔭 Currently working on **[Gehlee](https://github.com/Enyzelle/Gehlee)** and **[Stellar Music](https://github.com/Enyzelle/Stellar-Bot)**.
 - 🌱 Learning **Javascript, Typescript, Python and more** to build even cooler things!
 - 💬 Ask me about **JavaScript, TypeScript, Node.js, Python and Open Source**.
 - 🥅 2024 Goals: **Contribute to 50+ open-source projects**.
